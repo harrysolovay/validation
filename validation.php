@@ -9,7 +9,7 @@
 /*
  * @package Validation
  * @author Harry Solovay
- * @link github.com/harrysolovay/... // replace
+ * @link https://github.com/harrysolovay
  * @version 0.1 1/15/2014
  */
 	
